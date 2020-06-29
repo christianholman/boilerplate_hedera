@@ -1,4 +1,6 @@
-# Getting started
+# React-native Hedera boilerplate
+
+## Getting started
 To install the required packages run 
 ```
 npm i
@@ -26,3 +28,13 @@ const operatorPrivateKey = '302e020100300506032b657004220420...'; // Your accoun
 ```
 
 The client is configured to run on testnet by default.
+
+## Running
+### IOS
+```
+npx react-native run-ios
+```
+### Android
+```
+npx react-native run-android
+```
