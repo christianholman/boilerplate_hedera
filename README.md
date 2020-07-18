@@ -3,6 +3,8 @@
 ## Getting started
 To install the required packages run 
 ```
+npm i -g rn-nodeify
+
 npm i
 
 npm run postinstall
